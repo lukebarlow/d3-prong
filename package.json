@@ -1,6 +1,7 @@
 {
     "name": "d3-prong",
     "description": "d3 stripped down custom build for Forkaudio.org projects",
+    "version": "0.1.0",
     "repository": {
         "type": "git",
         "url": "https://github.com/lukebarlow/d3-prong.git"
